@@ -9,8 +9,8 @@ importers:
   .:
     dependencies:
       '@luke-e-gibson/drawjs':
-        specifier: ^1.2.3
-        version: 1.2.3(react-dom@18.3.1(react@18.3.1))(react@18.3.1)
+        specifier: ^1.2.4
+        version: 1.2.4(react-dom@18.3.1(react@18.3.1))(react@18.3.1)
       react:
         specifier: ^18.3.1
         version: 18.3.1
@@ -376,8 +376,8 @@ packages:
   '@jridgewell/trace-mapping@0.3.25':
     resolution: {integrity: sha512-vNk6aEwybGtawWmy/PzwnGDOjCkLWSD2wqvjGGAgOAwCGWySYXfYoxt00IJkTF+8Lb57DwOb3Aa0o9CApepiYQ==}
 
-  '@luke-e-gibson/drawjs@1.2.3':
-    resolution: {integrity: sha512-a8f7IqOlPUzSl2Sm1uVk9Khsiqw9ve8g3qZWxcxSL/TNTUo9VzdCsYbm1ZkjIO/HIWzLXXFY5tSlXZJ6CDW4zA==}
+  '@luke-e-gibson/drawjs@1.2.4':
+    resolution: {integrity: sha512-RZsNTUyf8lqbFZs//QBWTI/xW/EUjFl0YrsaKEh5MgslqUfOkNJOrtGw92tcw/df/eBBSk5GPKq8Q9sU4DTB1Q==}
     peerDependencies:
       react: ^18.3.1
       react-dom: ^18.3.1
@@ -1634,7 +1634,7 @@ snapshots:
       '@jridgewell/resolve-uri': 3.1.2
       '@jridgewell/sourcemap-codec': 1.5.0
 
-  '@luke-e-gibson/drawjs@1.2.3(react-dom@18.3.1(react@18.3.1))(react@18.3.1)':
+  '@luke-e-gibson/drawjs@1.2.4(react-dom@18.3.1(react@18.3.1))(react@18.3.1)':
     dependencies:
       react: 18.3.1
       react-dom: 18.3.1(react@18.3.1)
