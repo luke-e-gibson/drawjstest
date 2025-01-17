@@ -1,10 +1,4 @@
-import {
-  Canvas,
-  CanvasDebugButton,
-  PenColorChanger,
-  PenWidthChanger,
-  DrawProvider,
-} from "@luke-e-gibson/drawjs/react";
+import { Canvas, DrawProvider, PenColorChanger, PenWidthChanger, CanvasDebugButton } from "@luke-e-gibson/drawjs/react"
 
 function App() {
 
