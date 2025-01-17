@@ -10,7 +10,7 @@ function App() {
           className="container mx-auto p-4"
           style={{ height: `${window.innerHeight - 100}px` }}
         >
-          <div className="flex justify-between py-3">
+          <div className="flex justify-between py-3" style={{ width: "%50" }}>
             <div className="flex items-center">
               <label htmlFor="colorpicker" className="px-1">
                 Color:
@@ -25,7 +25,7 @@ function App() {
             </div>
             <CanvasDebugButton className="p-2 border rounded-md" />
           </div>
-          <Canvas className="border rounded-md w-full h-full" />
+          <Canvas className="w-full h-full"/>
         </div>
       </DrawProvider>
     </>
