@@ -4,7 +4,7 @@ import {
   PenColorChanger,
   PenWidthChanger,
   DrawProvider,
-} from "@luke-e-gibson/drawjs";
+} from "@luke-e-gibson/drawjs/react";
 
 function App() {
 
