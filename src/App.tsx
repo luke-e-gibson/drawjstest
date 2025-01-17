@@ -25,7 +25,7 @@ function App() {
             </div>
             <CanvasDebugButton className="p-2 border rounded-md" />
           </div>
-          <Canvas className="w-full h-full"/>
+          <Canvas className="w-full h-full border rounded-md"/>
         </div>
       </DrawProvider>
     </>
